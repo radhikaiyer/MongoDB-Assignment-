@@ -58,7 +58,7 @@ $(document).ready(function() {
     var emptyAlert = $(
       [
         "<div class='alert alert-warning text-center'>",
-        "<h4>oh no! Looks like we don't have any saved articles.</h4>",
+        "<h4>Oh no! Looks like we don't have any saved articles.</h4>",
         "</div>",
         "<div class='panel panel-default'>",
         "<div class='panel-heading text-center'>",
